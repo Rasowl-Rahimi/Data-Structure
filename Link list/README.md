@@ -1,4 +1,4 @@
-# List-logic-code
+# Link-List
 
 It is a practice project for the university in C++.
 
